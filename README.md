@@ -25,8 +25,6 @@ This is a ServiceNow catalog item built during our internship. It allows employe
 ### 👨‍💻 Built With
 
 * ServiceNow Catalog Item
-
-* Demo Video Link : https://drive.google.com/file/d/1zELyVvbuew41hpnKtPwE-6nXr5RIGv8z/view?usp=drivesdk
 * UI Policies
 * Client Scripts
 * Flow Designer (optional)
@@ -40,4 +38,6 @@ This is a ServiceNow catalog item built during our internship. It allows employe
 * Mokshagna Sai
 * Hemachand Ravulapalli
 
+* Demo Video Link : https://drive.google.com/file/d/1zELyVvbuew41hpnKtPwE-6nXr5RIGv8z/view?usp=drivesdk
 ---
+
