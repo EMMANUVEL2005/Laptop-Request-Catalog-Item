@@ -31,12 +31,19 @@ This is a ServiceNow catalog item built during our internship. It allows employe
 
 ---
 
-### 👥 Team Members (Internship Project)
+### 👥 Team Members 
 
-* Y. Lowshik Teja
-* B. Praveen
-* Mokshagna Sai
-* Hemachand Ravulapalli
+Team ID : NM2025TMID02656
+
+Team Size : 4
+
+Team Leader : Finney PAUL P
+
+Team member : Emmanuvel S
+
+Team member : Deebu J
+
+Team member : Jebin R
 
 * Demo Video Link : https://drive.google.com/file/d/1zELyVvbuew41hpnKtPwE-6nXr5RIGv8z/view?usp=drivesdk
 ---
