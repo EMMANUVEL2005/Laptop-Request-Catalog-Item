@@ -33,17 +33,17 @@ This is a ServiceNow catalog item built during our internship. It allows employe
 
 ### 👥 Team Members 
 
-Team ID : NM2025TMID02656
+ Team ID : NM2025TMID02656
 
-Team Size : 4
+ Team Size : 4
 
-Team Leader : Finney PAUL P
+ Team Leader : Finney PAUL P
 
-Team member : Emmanuvel S
+ Team member : Emmanuvel S
 
-Team member : Deebu J
+ Team member : Deebu J
 
-Team member : Jebin R
+ Team member : Jebin R
 
 * Demo Video Link : https://drive.google.com/file/d/1zELyVvbuew41hpnKtPwE-6nXr5RIGv8z/view?usp=drivesdk
 ---
